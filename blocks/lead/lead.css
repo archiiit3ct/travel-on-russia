@@ -1,9 +1,9 @@
-@import url('./__caption/lead__caption.css');
-@import url('./__image/lead__image.css');
-@import url('./__subtitle/lead__subtitle.css');
-@import url('./__title/lead__title.css');
-@import url('./__vector/lead__vector.css');
-@import url('./__image-block/lead__image-block.css');
+@import url('./caption/lead__caption.css');
+@import url('./image/lead__image.css');
+@import url('./subtitle/lead__subtitle.css');
+@import url('./title/lead__title.css');
+@import url('./vector/lead__vector.css');
+@import url('./image-block/lead__image-block.css');
 
 
 .lead {
