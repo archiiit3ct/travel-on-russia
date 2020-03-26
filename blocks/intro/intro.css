@@ -1,6 +1,6 @@
-@import url('./__content/intro__content.css');
-@import url('./__title/intro__title.css');
-@import url('./__text/intro__text.css');
+@import url('./content/intro__content.css');
+@import url('./title/intro__title.css');
+@import url('./text/intro__text.css');
 
 
 .intro {
