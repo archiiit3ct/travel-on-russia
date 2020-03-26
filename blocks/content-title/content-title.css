@@ -1,0 +1,36 @@
+.content-title {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 78px;
+    text-align: center;
+    color: #fff;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+@media (max-width: 920px) {
+    .content-title {
+        font-size: 40px;
+        line-height: 46px;
+        max-height: 400px;
+        max-width: 390px;
+    }
+}
+
+@media (max-width: 620px) {
+    .content-title {
+        font-size: 32px;
+        line-height: 35px;
+        /* max-height: 80px; */
+        max-width: 343px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 420px) {
+    .content-title {
+        margin: 0 16px 0 16px;
+    }
+}

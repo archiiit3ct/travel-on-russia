@@ -1,0 +1,10 @@
+.comment__image {
+    border-radius: 50%;
+    max-width: 97px;
+}
+
+@media (max-width: 920px) {
+    .comment__image {
+        order: 1;
+    }
+}

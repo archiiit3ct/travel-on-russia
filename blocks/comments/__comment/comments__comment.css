@@ -1,0 +1,18 @@
+.comment {
+    max-width: 382px;
+    display: flex;
+    flex-direction: column;
+}
+
+.comment:nth-child(2) {
+    margin: 0 19px;
+}
+
+@media (max-width: 920px) {
+    .comment {
+        align-items: center;
+    }
+    .comment:nth-child(2) {
+        margin: 0 auto;
+    }
+}

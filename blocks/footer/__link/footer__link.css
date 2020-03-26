@@ -1,0 +1,24 @@
+.footer__link {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 41px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 18px;
+}
+
+@media (max-width: 920px) {
+    .footer__link {
+        font-size: 16px;
+        line-height: 27px;
+    }
+}
+
+@media (max-width: 720px) {
+    .footer__link {
+        font-size: 24px;
+        line-height: 41px;
+    }
+}

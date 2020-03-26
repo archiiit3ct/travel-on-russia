@@ -1,0 +1,22 @@
+@import url('./_type/video__icon_type_play.css');
+
+.video__icon {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    color: #fff;
+}
+
+@media (max-width: 920px) {
+    .video__icon {
+        top: 24px;
+        left: 24px;
+    }
+}
+
+@media (max-width: 340px) {
+    .video__icon {
+        top: 16px;
+        left: 16px;
+    }
+}

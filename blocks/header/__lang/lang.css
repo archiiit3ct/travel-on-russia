@@ -1,0 +1,25 @@
+.header__lang {
+    margin-top: 17px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5rem;
+    line-height: 0.9;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.header__lang:first-child {
+    margin-right: 18px;
+}
+
+.header__lang_active {
+    text-decoration-line: underline;
+}
+
+@media (max-width: 767px) {
+    .header__lang {
+        font-size: 1.125rem;
+        line-height: 0.95;
+    }
+}

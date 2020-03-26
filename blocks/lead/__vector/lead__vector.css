@@ -1,0 +1,27 @@
+.lead__vector {
+    width: 95%;
+    position: absolute;
+    top: 126px;
+    left: 23px;
+}
+
+@media (max-width: 768px) {
+    .lead__vector {
+        top: 61px;
+        left: 16px;
+    }
+}
+
+@media (max-width: 375px) {
+    .lead__vector {
+        top: 45px;
+        left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .lead__vector {
+        top: 35px;
+        left: 10px;
+    }
+}

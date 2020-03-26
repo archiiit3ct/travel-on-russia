@@ -1,0 +1,36 @@
+.video__duration {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 13px;
+    letter-spacing: 0.3em;
+    color: #FFFFFF;
+    margin: 165px 0 12px 30px;
+}
+
+@media (max-width: 1124px) {
+    .video__duration {
+        margin: 125px 0 12px 30px;
+    }
+}
+
+@media (max-width: 920px) {
+    .video__duration {
+        margin: 104px 0 8px 24px;
+    }
+
+    .video__item_observatory .video__duration{
+        margin: 82px 0 8px 24px;
+    }
+}
+
+@media (max-width: 340px) {
+    .video__duration {
+        margin: 106px 0 8px 16px;
+    }
+
+    .video__item_observatory .video__duration{
+        margin: 80px 0 8px 16px;
+    }
+}

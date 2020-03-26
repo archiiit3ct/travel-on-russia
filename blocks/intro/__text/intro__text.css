@@ -1,0 +1,19 @@
+.intro__text {
+    font-family: Inter;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+    list-style-type: none;
+}
+
+.intro__text li span {
+    font-weight: bold;
+}
+
+@media (max-width: 375px) {
+    .intro__text {
+        font-size: 12px;
+        line-height: 19px;
+    }
+}

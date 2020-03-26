@@ -1,0 +1,28 @@
+.cover__image {
+    display: block;
+    width: 100%;
+}
+
+@media (max-width: 1125px) {
+    .cover__image {
+        height: 562px;
+    }
+}
+
+@media (max-width: 920px) {
+    .cover__image {
+        height: 500px;
+    }
+}
+
+@media (max-width: 500px) {
+    .cover__image {
+        height: 272px;
+    }
+}
+
+@media (max-width: 370px) {
+    .cover__image {
+        height: 216px;
+    }
+}

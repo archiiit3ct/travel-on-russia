@@ -1,0 +1,9 @@
+.video__subtitle_type_left {
+    margin: 18px 0 0 30px;
+}
+
+@media (max-width: 768px) {
+    .video__subtitle_type_left {
+        margin: 2px 0 0 16px;
+    }
+}

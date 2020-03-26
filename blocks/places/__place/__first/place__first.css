@@ -1,0 +1,9 @@
+.place__first {
+    margin-bottom: 36px;
+}
+
+@media (max-width: 1279px) {
+    .place__first {
+        margin-bottom: 24px;
+    }
+}

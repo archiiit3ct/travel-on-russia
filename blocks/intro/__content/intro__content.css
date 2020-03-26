@@ -1,0 +1,13 @@
+@import url('./_row/intro__content_row_left.css');
+@import url('./_row/intro__content_row_right.css');
+
+.intro__content {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+.intro__content:last-child {
+    display: flex;
+    flex-direction: column;
+}
