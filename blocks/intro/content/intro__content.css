@@ -1,5 +1,5 @@
-@import url('./_row/intro__content_row_left.css');
-@import url('./_row/intro__content_row_right.css');
+@import url('./row/intro__content_row_left.css');
+@import url('./row/intro__content_row_right.css');
 
 .intro__content {
     display: flex;
