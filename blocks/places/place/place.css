@@ -1,10 +1,10 @@
-@import url('./__title/place__title.css');
-@import url('./__website/place__website.css');
-@import url('./__url-heading/place__url-heading.css');
-@import url('./__url/place__url.css');
-@import url('./__image/place__image.css');
-@import url('./__paragraph/place__paragraph.css');
-@import url('./__first/place__first.css');
+@import url('./title/place__title.css');
+@import url('./website/place__website.css');
+@import url('./url-heading/place__url-heading.css');
+@import url('./url/place__url.css');
+@import url('./image/place__image.css');
+@import url('./paragraph/place__paragraph.css');
+@import url('./first/place__first.css');
 
 .place {
     display: grid;
